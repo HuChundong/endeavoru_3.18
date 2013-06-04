@@ -1,4 +1,4 @@
 endeavoru_3.18
 ==============
 
-first kernel dev
+3.10.10 Kernel for HTC oneX
